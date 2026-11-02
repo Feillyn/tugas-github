@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     cout << "===== LATIHAN =====" << endl;
-    cout << "Hello, kelompok C++!" << endl;
+    cout << "Hello, belin imut!" << endl;
 
     return 0;
 }
